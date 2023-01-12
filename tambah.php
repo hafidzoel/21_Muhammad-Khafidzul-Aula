@@ -34,7 +34,7 @@ if ( isset($_POST["submit"])) {
     <div class="main-block">
       <div class="left-part">
         <i class="fas fa-graduation-cap"></i>
-        <h1>REGISTRASI SEKARANG!!</h1>
+        <h1>TAMBAHKAN SEKARANG</h1>
         
         <div class="btn-group">
           <a class="btn-item" href="index.php">Kembali</a>
@@ -47,11 +47,11 @@ if ( isset($_POST["submit"])) {
           <h2>Tambahkan Data</h2>
         </div>
         <div class="info">
-          <input class="fname" type="text" name="namasantri" id="namasantri" placeholder="namasantri" required>
-          <input type="text" name="alamatsantri" id="alamatsantri" placeholder="alamatsantri" required>
-          <input type="text" name="notelp" id="notelp" placeholder="notelp" required>
-          <input type="text" name="namaayah" id="namaayah" placeholder="namaayah" required>
-          <input type="text" name="namaibu" id="namaibu" placeholder="namaibu" required>
+          <input class="fname" type="text" name="namasantri" id="namasantri" placeholder="Nama Santri" required>
+          <input type="text" name="alamatsantri" id="alamatsantri" placeholder="Alamat Santri" required>
+          <input type="text" name="notelp" id="notelp" placeholder="No Telp" required>
+          <input type="text" name="namaayah" id="namaayah" placeholder="Nama Ayah" required>
+          <input type="text" name="namaibu" id="namaibu" placeholder="Nama Ibu" required>
           
         </div>
         <div class="checkbox">
