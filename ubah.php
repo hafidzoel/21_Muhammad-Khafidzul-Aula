@@ -35,7 +35,7 @@ if ( isset($_POST["submit"])) {
     <div class="main-block">
       <div class="left-part">
         <i class="fas fa-graduation-cap"></i>
-        <h1>Ubah Data Siswa</h1>
+        <h1>Ubah Data Santri</h1>
         
         <div class="btn-group">
           <a class="btn-item" href="index.php">Kembali</a>
@@ -60,7 +60,7 @@ if ( isset($_POST["submit"])) {
         <div class="checkbox">
           <input type="checkbox" name="checkbox"><span>I agree to the <a href="">Privacy Poalicy</a></span>
         </div>
-        <button type="submit" name="submit">Ubah Data Siswa</button>
+        <button type="submit" name="submit">Ubah Data Santri</button>
       </form>
     </div>
   </body>

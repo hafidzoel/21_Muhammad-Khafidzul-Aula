@@ -57,7 +57,7 @@ if ( isset($_POST["submit"])) {
         <div class="checkbox">
           <input type="checkbox" name="checkbox"><span>I agree to the <a href="">Privacy Poalicy</a></span>
         </div>
-        <button type="submit" name="submit">Tambah Data Siswa</button>
+        <button type="submit" name="submit">Tambah Data Santri</button>
       </form>
     </div>
   </body>
